@@ -1,0 +1,13 @@
+2024/09/16 17:41:08 - Confirmacion Asistencia -  Nombre Usuario: pablo - Identificacion: 123 
+2024/09/16 17:46:27 - Confirmacion Asistencia -  Nombre Usuario: pab - Identificacion: 789 
+2024/09/16 17:51:20 - Confirmacion Asistencia -  Nombre Usuario: juan - Identificacion: 789 
+2024/09/16 17:55:22 - Confirmacion Asistencia -  Nombre Usuario: hh - Identificacion: 123 
+2024/09/18 13:15:23 - Confirmacion Asistencia -  Nombre Usuario: Sara - Identificacion: 123 
+2024/09/18 13:15:41 - Confirmacion Asistencia -  Nombre Usuario: Sara - Identificacion: 123 
+2024/09/18 13:27:08 - Confirmacion Asistencia -  Nombre Usuario: Fer - Identificacion: 123 
+2024/09/18 13:27:22 - Confirmacion Asistencia -  Nombre Usuario: Fer - Identificacion: 123 
+2024/09/18 13:28:09 - Confirmacion Asistencia -  Nombre Usuario: Fer - Identificacion: 123 
+2024/09/18 13:32:53 - Confirmacion Asistencia -  Nombre Usuario: Camilo - Identificacion: 123 
+2024/09/18 13:33:43 - Confirmacion Asistencia -  Nombre Usuario: Camilo - Identificacion: 123 
+2024/09/18 13:38:10 - Confirmacion Asistencia -  Nombre Usuario: Laura - Identificacion: 789 
+2024/09/18 13:38:37 - Confirmacion Asistencia -  Nombre Usuario: Laura - Identificacion: 789 

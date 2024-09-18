@@ -1,0 +1,6 @@
+2024/09/18 12:56:02 - Error no hay sesiones a las que ingresar
+2024/09/18 13:04:32 - Error no hay sesiones a las que ingresar
+2024/09/18 13:14:48 - Sesion no encontrada
+2024/09/18 13:15:48 - Error no hay certificados disponibles
+2024/09/18 13:27:33 - Error no hay certificados disponibles
+2024/09/18 13:28:14 - Error no hay certificados disponibles
